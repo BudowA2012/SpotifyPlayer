@@ -1,0 +1,10 @@
+TFT pin	     ESP32 pin	
+
+VCC	          3.3V	  
+GND	          GND	
+CS	          GPIO 15	
+RESET	        GPIO 4	
+DC / RS	      GPIO 2	
+MOSI	        GPIO 23	
+SCK / CLK	    GPIO 18	
+LED / BL	    3.3V 
